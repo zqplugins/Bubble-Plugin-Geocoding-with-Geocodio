@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "ecommerce",
+        "1": "payment",
+        "2": "customer support",
+        "3": "data (things)"
+    },
+    "demo_page": "https://pdf-conjurer-testbed.bubbleapps.io/geocodio",
+    "description": "This plugin has been recently acquired by Zeroqode - please bear with us while we review the code and make improvements/fixes where necessary.\n\nConvert an address into coordinates (latitude and longitude). Straightforward and easy-to-use geocoding for US and Canadian addresses.\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/geocoding-with-geocodio-plugin-for-bubble-1712925718477x258246419936225100\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com ",
+    "image": "//s3.amazonaws.com/appforest_uf/f1564187092537x981846751951717500/digital-trace.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Geocoding with Geocodio",
+    "plugin_instructions": "Input your private API key at the plugin tab then use the GET call given by this plugin as a data source. Send the address text, for example 1600 Pennsylvania Ave NW, Washington DC, or just the country or state or city name or zip code.\n\nStore or use the coordinate and completed address received, the result will be a list, but the first result is the best one, so just use :first item."
+}
